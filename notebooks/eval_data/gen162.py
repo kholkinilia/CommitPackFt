@@ -1,0 +1,6 @@
+def string_to_md5(text):
+    import hashlib
+    if text:
+        return hashlib.md5(text).hexdigest()
+    else:
+        return None

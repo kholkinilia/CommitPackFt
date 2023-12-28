@@ -1,0 +1,1 @@
+def intersection(interval1, interval2):
