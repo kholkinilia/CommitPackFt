@@ -1,4 +1,3 @@
-
 from gen146 import specialFilter
 
 def check(specialFilter):

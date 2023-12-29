@@ -1,4 +1,3 @@
-
 from gen81 import numerical_letter_grade
 
 def check(numerical_letter_grade):

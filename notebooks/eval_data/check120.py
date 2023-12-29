@@ -1,4 +1,3 @@
-
 from gen120 import maximum
 
 def check(maximum):

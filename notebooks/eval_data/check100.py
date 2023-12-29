@@ -1,4 +1,3 @@
-
 from gen100 import make_a_pile
 
 def check(make_a_pile):

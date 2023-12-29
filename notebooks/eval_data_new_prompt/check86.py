@@ -1,4 +1,3 @@
-
 from gen86 import anti_shuffle
 
 def check(anti_shuffle):

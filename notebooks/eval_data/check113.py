@@ -1,4 +1,3 @@
-
 from gen113 import odd_count
 
 def check(odd_count):

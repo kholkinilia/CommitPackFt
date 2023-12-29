@@ -1,4 +1,3 @@
-
 from gen99 import closest_integer
 
 def check(closest_integer):

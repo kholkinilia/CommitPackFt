@@ -1,4 +1,3 @@
-
 from gen60 import sum_to_n
 
 

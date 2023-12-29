@@ -1,4 +1,3 @@
-
 from gen32 import find_zero
 
 

@@ -1,4 +1,3 @@
-
 from gen24 import largest_divisor
 
 

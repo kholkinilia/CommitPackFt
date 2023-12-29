@@ -1,4 +1,3 @@
-
 from gen46 import fib4
 
 

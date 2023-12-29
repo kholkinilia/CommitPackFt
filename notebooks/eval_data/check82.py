@@ -1,4 +1,3 @@
-
 from gen82 import prime_length
 
 def check(prime_length):

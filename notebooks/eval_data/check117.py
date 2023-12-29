@@ -1,4 +1,3 @@
-
 from gen117 import select_words
 
 def check(select_words):

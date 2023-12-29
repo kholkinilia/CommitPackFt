@@ -1,4 +1,3 @@
-
 from gen23 import strlen
 
 

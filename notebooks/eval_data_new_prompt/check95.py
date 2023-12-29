@@ -1,4 +1,3 @@
-
 from gen95 import check_dict_case
 
 def check(check_dict_case):

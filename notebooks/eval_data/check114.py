@@ -1,4 +1,3 @@
-
 from gen114 import minSubArraySum
 
 def check(minSubArraySum):

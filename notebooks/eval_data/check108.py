@@ -1,4 +1,3 @@
-
 from gen108 import count_nums
 
 def check(count_nums):

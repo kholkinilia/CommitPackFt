@@ -1,4 +1,3 @@
-
 from gen96 import count_up_to
 
 def check(count_up_to):

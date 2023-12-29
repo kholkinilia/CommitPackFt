@@ -1,4 +1,3 @@
-
 from gen149 import sorted_list_sum
 
 def check(sorted_list_sum):

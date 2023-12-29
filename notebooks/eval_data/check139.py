@@ -1,4 +1,3 @@
-
 from gen139 import special_factorial
 
 def check(special_factorial):

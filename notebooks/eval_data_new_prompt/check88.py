@@ -1,4 +1,3 @@
-
 from gen88 import sort_array
 
 def check(sort_array):

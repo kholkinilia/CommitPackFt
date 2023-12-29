@@ -1,4 +1,3 @@
-
 from gen162 import string_to_md5
 
 def check(string_to_md5):

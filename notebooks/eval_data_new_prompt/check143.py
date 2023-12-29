@@ -1,4 +1,3 @@
-
 from gen143 import words_in_sentence
 
 def check(words_in_sentence):

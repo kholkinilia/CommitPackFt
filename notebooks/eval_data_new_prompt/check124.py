@@ -1,4 +1,3 @@
-
 from gen124 import valid_date
 
 def check(valid_date):

@@ -1,4 +1,3 @@
-
 from gen147 import get_max_triples
 
 def check(get_max_triples):

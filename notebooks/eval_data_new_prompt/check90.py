@@ -1,4 +1,3 @@
-
 from gen90 import next_smallest
 
 def check(next_smallest):

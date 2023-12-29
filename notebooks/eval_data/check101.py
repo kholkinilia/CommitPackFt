@@ -1,4 +1,3 @@
-
 from gen101 import words_string
 
 def check(words_string):

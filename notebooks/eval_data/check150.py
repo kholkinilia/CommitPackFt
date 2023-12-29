@@ -1,4 +1,3 @@
-
 from gen150 import x_or_y
 
 def check(x_or_y):

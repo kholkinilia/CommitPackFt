@@ -1,4 +1,3 @@
-
 from gen69 import search
 
 def check(search):

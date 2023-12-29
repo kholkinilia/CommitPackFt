@@ -1,4 +1,3 @@
-
 from gen105 import by_length
 
 def check(by_length):

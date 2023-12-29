@@ -1,4 +1,3 @@
-
 from gen135 import can_arrange
 
 def check(can_arrange):

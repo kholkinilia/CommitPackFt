@@ -1,4 +1,3 @@
-
 from gen144 import simplify
 
 def check(simplify):

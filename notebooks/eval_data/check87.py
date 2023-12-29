@@ -1,4 +1,3 @@
-
 from gen87 import get_row
 
 def check(get_row):

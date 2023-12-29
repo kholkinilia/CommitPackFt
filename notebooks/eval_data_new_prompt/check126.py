@@ -1,4 +1,3 @@
-
 from gen126 import is_sorted
 
 def check(is_sorted):

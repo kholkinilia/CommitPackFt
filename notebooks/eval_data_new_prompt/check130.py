@@ -1,4 +1,3 @@
-
 from gen130 import tri
 
 def check(tri):

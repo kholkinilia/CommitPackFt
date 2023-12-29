@@ -1,4 +1,3 @@
-
 from gen109 import move_one_ball
 
 def check(move_one_ball):

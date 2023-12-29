@@ -1,4 +1,3 @@
-
 from gen153 import Strongest_Extension
 
 def check(Strongest_Extension):

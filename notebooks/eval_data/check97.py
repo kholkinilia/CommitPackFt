@@ -1,4 +1,3 @@
-
 from gen97 import multiply
 
 def check(multiply):

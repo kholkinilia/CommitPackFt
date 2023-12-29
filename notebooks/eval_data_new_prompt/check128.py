@@ -1,4 +1,3 @@
-
 from gen128 import prod_signs
 
 def check(prod_signs):

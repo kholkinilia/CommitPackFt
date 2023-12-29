@@ -1,4 +1,3 @@
-
 from gen71 import triangle_area
 
 def check(triangle_area):

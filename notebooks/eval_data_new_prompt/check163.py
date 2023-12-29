@@ -1,4 +1,3 @@
-
 from gen163 import generate_integers
 
 def check(generate_integers):

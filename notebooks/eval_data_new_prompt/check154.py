@@ -1,4 +1,3 @@
-
 from gen154 import cycpattern_check
 
 def check(cycpattern_check):

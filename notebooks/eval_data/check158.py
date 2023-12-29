@@ -1,4 +1,3 @@
-
 from gen158 import find_max
 
 def check(find_max):

@@ -1,4 +1,3 @@
-
 from gen89 import encrypt
 
 def check(encrypt):

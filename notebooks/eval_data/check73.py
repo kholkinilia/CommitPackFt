@@ -1,4 +1,3 @@
-
 from gen73 import smallest_change
 
 def check(smallest_change):

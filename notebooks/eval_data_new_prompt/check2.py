@@ -1,4 +1,3 @@
-
 from gen2 import truncate_number
 
 

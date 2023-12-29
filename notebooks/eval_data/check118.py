@@ -1,4 +1,3 @@
-
 from gen118 import get_closest_vowel
 
 def check(get_closest_vowel):

@@ -1,4 +1,3 @@
-
 from gen111 import histogram
 
 def check(histogram):

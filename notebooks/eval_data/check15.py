@@ -1,4 +1,3 @@
-
 from gen15 import string_sequence
 
 

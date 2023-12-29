@@ -1,4 +1,3 @@
-
 from gen137 import compare_one
 
 def check(compare_one):

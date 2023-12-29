@@ -1,4 +1,3 @@
-
 from gen65 import circular_shift
 
 def check(circular_shift):

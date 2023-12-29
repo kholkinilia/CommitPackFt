@@ -1,4 +1,3 @@
-
 from gen79 import decimal_to_binary
 
 def check(decimal_to_binary):

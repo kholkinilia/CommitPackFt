@@ -1,4 +1,3 @@
-
 from gen91 import is_bored
 
 def check(is_bored):

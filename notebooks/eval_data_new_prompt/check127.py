@@ -1,4 +1,3 @@
-
 from gen127 import intersection
 
 def check(intersection):

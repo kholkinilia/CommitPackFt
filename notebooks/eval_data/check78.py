@@ -1,4 +1,3 @@
-
 from gen78 import hex_key
 
 def check(hex_key):

@@ -1,4 +1,3 @@
-
 from gen102 import choose_num
 
 def check(choose_num):

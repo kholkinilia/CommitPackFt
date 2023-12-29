@@ -1,4 +1,3 @@
-
 from gen159 import eat
 
 def check(eat):

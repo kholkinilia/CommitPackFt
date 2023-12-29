@@ -1,4 +1,3 @@
-
 from gen0 import has_close_elements
 
 

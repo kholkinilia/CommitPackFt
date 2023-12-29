@@ -1,4 +1,3 @@
-
 from gen103 import rounded_avg
 
 def check(rounded_avg):

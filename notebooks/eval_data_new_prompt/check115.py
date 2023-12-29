@@ -1,4 +1,3 @@
-
 from gen115 import max_fill
 
 def check(max_fill):

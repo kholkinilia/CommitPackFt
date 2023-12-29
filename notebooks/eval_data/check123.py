@@ -1,4 +1,3 @@
-
 from gen123 import get_odd_collatz
 
 def check(get_odd_collatz):

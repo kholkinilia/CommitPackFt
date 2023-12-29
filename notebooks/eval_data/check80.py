@@ -1,4 +1,3 @@
-
 from gen80 import is_happy
 
 def check(is_happy):

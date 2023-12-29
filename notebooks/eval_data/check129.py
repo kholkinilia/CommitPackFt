@@ -1,4 +1,3 @@
-
 from gen129 import minPath
 
 def check(minPath):

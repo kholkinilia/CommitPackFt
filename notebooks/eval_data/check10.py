@@ -1,4 +1,3 @@
-
 from gen10 import make_palindrome
 
 

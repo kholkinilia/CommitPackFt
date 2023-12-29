@@ -1,4 +1,3 @@
-
 from gen138 import is_equal_to_sum_even
 
 def check(is_equal_to_sum_even):

@@ -1,4 +1,3 @@
-
 from gen157 import right_angle_triangle
 
 def check(right_angle_triangle):

@@ -1,4 +1,3 @@
-
 from gen75 import is_multiply_prime
 
 def check(is_multiply_prime):

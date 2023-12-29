@@ -1,4 +1,3 @@
-
 from gen107 import even_odd_palindrome
 
 def check(even_odd_palindrome):

@@ -1,4 +1,3 @@
-
 from gen25 import factorize
 
 

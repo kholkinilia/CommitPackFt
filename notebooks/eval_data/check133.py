@@ -1,4 +1,3 @@
-
 from gen133 import sum_squares
 
 def check(sum_squares):

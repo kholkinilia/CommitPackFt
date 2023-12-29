@@ -1,4 +1,3 @@
-
 from gen77 import iscube
 
 def check(iscube):

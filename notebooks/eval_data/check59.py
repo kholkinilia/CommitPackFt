@@ -1,4 +1,3 @@
-
 from gen59 import largest_prime_factor
 
 

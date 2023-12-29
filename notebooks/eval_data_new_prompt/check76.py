@@ -1,4 +1,3 @@
-
 from gen76 import is_simple_power
 
 def check(is_simple_power):

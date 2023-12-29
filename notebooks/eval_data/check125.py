@@ -1,4 +1,3 @@
-
 from gen125 import split_words
 
 def check(split_words):

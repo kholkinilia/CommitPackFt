@@ -1,4 +1,3 @@
-
 from gen36 import fizz_buzz
 
 

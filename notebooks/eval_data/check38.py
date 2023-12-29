@@ -1,4 +1,3 @@
-
 from gen38 import decode_cyclic
 
 

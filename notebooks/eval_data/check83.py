@@ -1,4 +1,3 @@
-
 from gen83 import starts_one_ends
 
 def check(starts_one_ends):

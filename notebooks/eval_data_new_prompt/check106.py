@@ -1,4 +1,3 @@
-
 from gen106 import f
 
 def check(f):

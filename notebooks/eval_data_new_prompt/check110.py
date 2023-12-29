@@ -1,4 +1,3 @@
-
 from gen110 import exchange
 
 def check(exchange):

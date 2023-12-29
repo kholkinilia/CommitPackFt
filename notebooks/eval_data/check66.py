@@ -1,4 +1,3 @@
-
 from gen66 import digitSum
 
 def check(digitSum):

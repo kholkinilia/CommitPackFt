@@ -1,4 +1,3 @@
-
 from gen11 import string_xor
 
 

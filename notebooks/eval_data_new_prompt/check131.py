@@ -1,4 +1,3 @@
-
 from gen131 import digits
 
 def check(digits):

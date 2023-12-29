@@ -1,4 +1,3 @@
-
 from gen93 import encode
 
 def check(encode):

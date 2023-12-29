@@ -1,4 +1,3 @@
-
 from gen98 import count_upper
 
 def check(count_upper):

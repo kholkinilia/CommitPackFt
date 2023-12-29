@@ -1,4 +1,3 @@
-
 from gen70 import strange_sort_list
 
 def check(strange_sort_list):

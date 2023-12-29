@@ -1,4 +1,3 @@
-
 from gen72 import will_it_fly
 
 def check(will_it_fly):

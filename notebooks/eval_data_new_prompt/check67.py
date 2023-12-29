@@ -1,4 +1,3 @@
-
 from gen67 import fruit_distribution
 
 def check(fruit_distribution):

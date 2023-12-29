@@ -1,4 +1,3 @@
-
 from gen161 import solve
 
 def check(solve):

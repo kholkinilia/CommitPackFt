@@ -1,4 +1,3 @@
-
 from gen92 import any_int
 
 def check(any_int):

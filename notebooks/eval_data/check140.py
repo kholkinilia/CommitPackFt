@@ -1,4 +1,3 @@
-
 from gen140 import fix_spaces
 
 def check(fix_spaces):

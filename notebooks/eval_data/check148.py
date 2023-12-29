@@ -1,4 +1,3 @@
-
 from gen148 import bf
 
 def check(bf):

@@ -1,4 +1,3 @@
-
 from gen64 import vowels_count
 
 def check(vowels_count):

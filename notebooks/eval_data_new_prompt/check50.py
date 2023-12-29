@@ -1,4 +1,3 @@
-
 from gen50 import decode_shift
 
 

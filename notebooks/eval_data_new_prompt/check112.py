@@ -1,4 +1,3 @@
-
 from gen112 import reverse_delete
 
 def check(reverse_delete):

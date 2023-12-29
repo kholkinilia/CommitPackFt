@@ -1,4 +1,3 @@
-
 from gen104 import unique_digits
 
 def check(unique_digits):

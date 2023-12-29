@@ -1,4 +1,3 @@
-
 from gen13 import greatest_common_divisor
 
 

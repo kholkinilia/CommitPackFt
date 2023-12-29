@@ -1,4 +1,3 @@
-
 from gen45 import triangle_area
 
 

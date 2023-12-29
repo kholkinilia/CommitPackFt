@@ -1,4 +1,3 @@
-
 from gen151 import double_the_difference
 
 def check(double_the_difference):

@@ -1,4 +1,3 @@
-
 from gen74 import total_match
 
 def check(total_match):

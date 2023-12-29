@@ -1,4 +1,3 @@
-
 from gen58 import common
 
 

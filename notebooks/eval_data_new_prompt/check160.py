@@ -1,4 +1,3 @@
-
 from gen160 import do_algebra
 
 def check(do_algebra):

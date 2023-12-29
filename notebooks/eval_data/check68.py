@@ -1,4 +1,3 @@
-
 from gen68 import pluck
 
 def check(pluck):

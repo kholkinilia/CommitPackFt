@@ -1,4 +1,3 @@
-
 from gen145 import order_by_points
 
 def check(order_by_points):

@@ -1,4 +1,3 @@
-
 from gen48 import is_palindrome
 
 

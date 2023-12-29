@@ -1,4 +1,3 @@
-
 from gen30 import get_positive
 
 
